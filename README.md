@@ -23,5 +23,5 @@ Next.js dashboard with authentication and API integration.
 ---
 
 ## Contact
-LinkedIn: https://linkedin.com/in/YOUR-LINK  
-Email: your-email@gmail.com
+LinkedIn: www.linkedin.com/in/parveen-kumar-664b8b24b  
+Email: pk16061999@gmail.com
