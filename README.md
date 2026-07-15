@@ -1,8 +1,8 @@
 # Hi, I'm Parveen Kumar 👋
 
-## Full-Stack Software Engineer | AI Application Engineer
+## Full-Stack Software Engineer | Backend Engineer | Frontend Engineer
 
-I'm a passionate software engineer focused on building scalable, production-ready web applications powered by modern frontend technologies, robust backend architectures, and AI-driven solutions. I enjoy solving real-world problems by combining **React & Next.js**, **Java & Spring Boot**, and **LLM-powered applications**.
+I'm a passionate software engineer focused on building scalable, production-ready web applications powered by modern frontend technologies, robust backend architectures, and AI-driven solutions. I enjoy solving real-world problems by combining **React & Next.js**, **Java & Spring Boot.**
 
 ---
 
@@ -10,9 +10,8 @@ I'm a passionate software engineer focused on building scalable, production-read
 
 * 🎓 B.S. in Computer Science & Data Analytics, IIT Patna
 * 💻 Full-Stack Developer specializing in modern web applications
-* 🤖 Building AI-powered applications using OpenAI APIs, RAG, and AI Agents
 * 🌱 Continuously learning System Design, Cloud, and Production Engineering
-* 🔍 Interested in Software Engineering, Backend Development, Full-Stack Development, and AI Applications
+* 🔍 Interested in Software Engineering, Backend Development, Full-Stack Development.
 
 ---
 
@@ -49,23 +48,6 @@ I'm a passionate software engineer focused on building scalable, production-read
 * API Documentation
 * Exception Handling
 * Validation
-
----
-
-## AI Application Engineering
-
-* OpenAI API Integration
-* Retrieval-Augmented Generation (RAG)
-* LangChain
-* LangGraph
-* Prompt Engineering
-* AI Agents
-* Vector Databases
-* Semantic Search
-* OCR Integration
-* AI-Powered Recommendation Systems
-* Conversational AI
-
 ---
 
 ## DevOps & Tools
@@ -83,9 +65,9 @@ I'm a passionate software engineer focused on building scalable, production-read
 
 # 🚀 Featured Projects
 
-## 🏗️ Full-Stack AI Job Platform (Ongoing)
+## 🏗️ Full-Stack Job Platform (Ongoing)
 
-A production-oriented full-stack recruitment platform built with **React, Next.js, Spring Boot, Java, and MySQL**, designed to connect employers and job seekers while leveraging AI to improve hiring workflows.
+A production-oriented full-stack recruitment platform built with **React, Next.js, Spring Boot, Java, and MySQL**, designed to connect employers and job seekers.
 
 ### Highlights
 
@@ -94,13 +76,6 @@ A production-oriented full-stack recruitment platform built with **React, Next.j
 * Role-based authentication for candidates, recruiters, and administrators
 * MySQL database with optimized relational schema
 * Dockerized application for deployment readiness
-* AI-powered resume analysis
-* Intelligent job recommendations
-* OpenAI API integration
-* Retrieval-Augmented Generation (RAG) for context-aware assistance
-* Conversational AI support
-* Semantic job matching
-* OCR-based document verification
 * Real-time notifications (In Progress)
 
 **Tech Stack:** React • Next.js • TypeScript • Java • Spring Boot • Spring Security • MySQL • Docker • OpenAI API • RAG
@@ -134,7 +109,6 @@ A scalable analytics dashboard developed with **Next.js** featuring secure authe
 * Kubernetes
 * CI/CD
 * LLM Evaluation
-* AI Security
 * Production-Scale Distributed Systems
 
 ---
