@@ -78,7 +78,7 @@ A production-oriented full-stack recruitment platform built with **React, Next.j
 * Dockerized application for deployment readiness
 * Real-time notifications (In Progress)
 
-**Tech Stack:** React • Next.js • TypeScript • Java • Spring Boot • Spring Security • MySQL • Docker • OpenAI API • RAG
+**Tech Stack:** React • Next.js • TypeScript • Java • Spring Boot • Spring Security • MySQL • Docker
 
 ---
 
