@@ -1,8 +1,8 @@
 # Hi, I'm Parveen Kumar 👋
 
-## Full-Stack Software Engineer | Backend Engineer | Frontend Engineer
+## Frontend Engineer | Aspiring Backend Engineer | Aspiring Full-Stack Software Engineer
 
-I'm a passionate software engineer focused on building scalable, production-ready web applications powered by modern frontend technologies, robust backend architectures, and AI-driven solutions. I enjoy solving real-world problems by combining **React & Next.js**, **Java & Spring Boot.**
+I'm a passionate software engineer focused on building scalable, production-ready web applications powered by modern frontend technologies, robust backend architectures. I enjoy solving real-world problems by combining **React & Next.js**, **Java & Spring Boot.**
 
 ---
 
@@ -82,25 +82,6 @@ A production-oriented full-stack recruitment platform built with **React, Next.j
 
 ---
 
-## 📊 Admin Dashboard
-
-A scalable analytics dashboard developed with **Next.js** featuring secure authentication, reusable UI components, interactive charts, and seamless backend integration.
-
-### Features
-
-* JWT Authentication
-* Dashboard Analytics
-* REST API Integration
-* Responsive UI
-* Reusable Components
-* Performance Optimization
-* Protected Routes
-* Modern Dashboard Design
-
-**Tech Stack:** Next.js • React • TypeScript • Tailwind CSS • MUI
-
----
-
 # 📚 Currently Learning
 
 * Microservices Architecture
@@ -108,7 +89,6 @@ A scalable analytics dashboard developed with **Next.js** featuring secure authe
 * AWS
 * Kubernetes
 * CI/CD
-* LLM Evaluation
 * Production-Scale Distributed Systems
 
 ---
@@ -116,8 +96,6 @@ A scalable analytics dashboard developed with **Next.js** featuring secure authe
 # 📈 GitHub Goals
 
 * Build production-ready Full-Stack applications
-* Contribute to Open Source
-* Develop AI-powered software solutions
 * Master scalable backend architecture
 * Create impactful engineering projects with real-world users
 
