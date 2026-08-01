@@ -1,6 +1,6 @@
 # Hi, I'm Parveen Kumar 👋
 
-## Frontend Engineer | Aspiring Backend Engineer | Aspiring Full-Stack Software Engineer
+## Frontend Engineer | Backend Engineer | Full-Stack Software Engineer
 
 I'm a passionate software engineer focused on building scalable, production-ready web applications powered by modern frontend technologies, robust backend architectures. I enjoy solving real-world problems by combining **React & Next.js**, **Java & Spring Boot.**
 
