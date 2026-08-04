@@ -5,11 +5,11 @@
 <h1 align="center">Hi 👋, I'm Parveen Kumar</h1>
 
 <h3 align="center">
-Full-Stack Software Engineer • Java • Spring Boot • React • Next.js
+Frontend Engineer | Backend Engineer • Java • Spring Boot • React • Next.js
 </h3>
 
 <p align="center">
-Building scalable, production-ready web applications with modern frontend technologies and robust backend architectures.
+Frontend Engineer and Java Backend Engineer building scalable web applications with React, Next.js, Spring Boot, and REST APIs..
 </p>
 
 ---
