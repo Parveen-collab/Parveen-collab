@@ -1,107 +1,139 @@
-# Hi, I'm Parveen Kumar 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=220&section=header&text=Parveen%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20|%20Java%20•%20Spring%20Boot%20•%20React%20•%20Next.js&descAlignY=60&descSize=18"/>
+</p>
 
-## Frontend Engineer | Backend Engineer | Full-Stack Software Engineer
+<h1 align="center">Hi 👋, I'm Parveen Kumar</h1>
 
-I'm a passionate software engineer focused on building scalable, production-ready web applications powered by modern frontend technologies, robust backend architectures. I enjoy solving real-world problems by combining **React & Next.js**, **Java & Spring Boot.**
+<h3 align="center">
+Full-Stack Software Engineer • Java • Spring Boot • React • Next.js
+</h3>
+
+<p align="center">
+Building scalable, production-ready web applications with modern frontend technologies and robust backend architectures.
+</p>
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 B.S. in Computer Science & Data Analytics, IIT Patna
-* 💻 Full-Stack Developer specializing in modern web applications
-* 🌱 Continuously learning System Design, Cloud, and Production Engineering
-* 🔍 Interested in Software Engineering, Backend Development, Full-Stack Development.
+- 🎓 B.S. Computer Science & Data Analytics, IIT Patna
+- 💻 Full-Stack Software Engineer
+- 🌱 Learning **System Design, Microservices, AWS & Kubernetes**
+- ❤️ Passionate about scalable backend systems and clean architecture
 
 ---
 
 # 💻 Tech Stack
 
-## Frontend Engineering
+### Languages
 
-* React.js
-* Next.js
-* TypeScript
-* JavaScript (ES6+)
-* Tailwind CSS
-* Material UI (MUI)
-* HTML5
-* CSS3
-* Responsive Web Design
-* API Integration
-* State Management
-* Component-Based Architecture
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
----
+### Frontend
 
-## Backend Engineering
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui)
 
-* Java
-* Spring Boot
-* Spring Security
-* Hibernate / JPA
-* RESTful APIs
-* JWT Authentication
-* Role-Based Access Control (RBAC)
-* MySQL
-* PostgreSQL
-* API Documentation
-* Exception Handling
-* Validation
----
+### Backend
 
-## DevOps & Tools
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
+![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
 
-* Git
-* GitHub
-* Docker
-* Postman
-* Maven
-* IntelliJ IDEA
-* VS Code
-* Figma
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+
+### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Project
 
-## 🏗️ Full-Stack Job Platform (Ongoing)
+## 🏗 Full-Stack Job Platform *(In Progress)*
 
-A production-oriented full-stack recruitment platform built with **React, Next.js, Spring Boot, Java, and MySQL**, designed to connect employers and job seekers.
+Production-ready recruitment platform connecting employers and job seekers.
 
-### Highlights
+### Features
 
-* Responsive frontend built with React, Next.js, TypeScript, Tailwind CSS, and MUI
-* Secure backend using Spring Boot, Spring Security, JWT, and REST APIs
-* Role-based authentication for candidates, recruiters, and administrators
-* MySQL database with optimized relational schema
-* Dockerized application for deployment readiness
-* Real-time notifications (In Progress)
+- 🔐 JWT Authentication & RBAC
+- ⚡ Spring Boot REST APIs
+- 💻 React + Next.js Frontend
+- 🗄 MySQL Database
+- 🐳 Docker Deployment
+- 🔔 Real-time Notifications *(Coming Soon)*
 
-**Tech Stack:** React • Next.js • TypeScript • Java • Spring Boot • Spring Security • MySQL • Docker
+**Tech Stack**
 
----
-
-# 📚 Currently Learning
-
-* Microservices Architecture
-* System Design
-* AWS
-* Kubernetes
-* CI/CD
-* Production-Scale Distributed Systems
+`Java` `Spring Boot` `React` `Next.js` `TypeScript`
+`Spring Security` `MySQL` `Docker`
 
 ---
 
-# 📈 GitHub Goals
+# 📈 GitHub Statistics
 
-* Build production-ready Full-Stack applications
-* Master scalable backend architecture
-* Create impactful engineering projects with real-world users
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Parveen-collab&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parveen-collab&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-## 📫 Let's Connect
+# 🔥 Contribution Streak
 
-* 💼 LinkedIn: https://linkedin.com/in/parveen-kumar-664b8b24b
-* 💻 Email: Parveen_24a12res426@iitp.ac.in
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Parveen-collab&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Parveen-collab&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- Microservices
+- System Design
+- AWS
+- Kubernetes
+- CI/CD
+
+---
+
+# 📫 Connect
+
+<p align="center">
+
+<a href="https://linkedin.com/in/parveen-kumar-664b8b24b">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:Parveen_24a12res426@iitp.ac.in">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
