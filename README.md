@@ -17,7 +17,7 @@ Frontend Engineer and Java Backend Engineer building scalable web applications w
 ## 🚀 About Me
 
 - 🎓 B.S. Computer Science & Data Analytics, IIT Patna
-- 💻 Full-Stack Software Engineer
+- 💻 Software Engineer
 - 🌱 Learning **System Design, Microservices, AWS & Kubernetes**
 - ❤️ Passionate about scalable backend systems and clean architecture
 
